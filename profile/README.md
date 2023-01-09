@@ -1,4 +1,5 @@
 # Tricking API
+https://trickingapi.dev
 
 ## Aims to be an easy to use, consumption-only (only GET requests) API for the Tricking Vocabulary
 
